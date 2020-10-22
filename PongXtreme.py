@@ -173,7 +173,6 @@ while True:
         game_over= winsound.SND_NOSTOP
         break
 
-exit()
 turtle.getscreen()._root.mainloop()
 
 
